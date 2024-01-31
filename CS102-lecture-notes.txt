@@ -1,0 +1,6 @@
+1.git Clone
+2.git --version
+3.git push origin master
+4.git pull origin maste
+5.git commit -m ""
+ 
